@@ -1,0 +1,15 @@
+section {
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    border: 20px solid gold;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    margin: 25px;
+    padding: 15px;
+  }
+  
